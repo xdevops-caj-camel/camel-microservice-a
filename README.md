@@ -4,6 +4,7 @@
 
 ## Camel Route Demos
 - Timer
+- Log
 - File
 - ActiveMQ
 
